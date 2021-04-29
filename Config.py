@@ -1,0 +1,3 @@
+Channal_secret='940c5b88bcdd95ed2301b405248d608e'
+Channel_access_token='BPO0FEKhW3dx5laBlm+YF1cgElo5IS7idzS2Jm4IqdGDf0RSf+7DiC7eS+uOIWNXIi6eU61CjPJK/2/7RAirvFZrhq25zVoFNoBZLf3boLTDP/howrIEwcacPlUXpIKsXTj5wuILdJQX5m3QHEbzwwdB04t89/1O/w1cDnyilFU='
+Basic_ID = "@055ydmqp"
